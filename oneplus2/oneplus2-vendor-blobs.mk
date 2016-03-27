@@ -567,3 +567,5 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/firmware/widevine.b02:/system/vendor/firmware/widevine.b02 \
         vendor/oneplus/oneplus2/proprietary/vendor/firmware/widevine.b03:/system/vendor/firmware/widevine.b03 \
         vendor/oneplus/oneplus2/proprietary/vendor/firmware/widevine.mdt:/system/vendor/firmware/widevine.mdt \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libril-qc-qmi-1.so:/system/vendor/lib/libril-qc-qmi-1.so \
+        vendor/oneplus/oneplus2/proprietary/vendor/lib/libril-qcril-hook-oem.so:/system/vendor/lib/libril-qcril-hook-oem.so \
